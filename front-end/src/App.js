@@ -8,6 +8,8 @@ import Footer from './components/Footer'
 
 import Routes from './Routes';
 
+import './App.css';
+
 export default function App() {
   const email = useSelector(state => state.user.email);
 
