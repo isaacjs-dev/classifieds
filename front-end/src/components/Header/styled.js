@@ -19,8 +19,8 @@ export const HeaderArea = styled.div`
             display: flex;
             align-items: center;
             height: 60px;
-            transform: rotate(-10deg);
-            margin-top:-50px;
+            transform: rotate(-7deg);
+            margin-top:-35px;
 
 
             .letter-01,
